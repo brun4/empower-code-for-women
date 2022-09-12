@@ -2,6 +2,7 @@
 
 Semana 1|
 Imersão Dev Aula 1: Variáveis, Operações e Média
+
 Imersão Dev Aula 2: Conversor de Moedas
 
 Semana 2|

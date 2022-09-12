@@ -2,16 +2,15 @@
 
 Semana 1|
 Imersão Dev Aula 1: Variáveis, Operações e Média
-
-Imersão Dev Aula 2: Conversor de Moedas
+| Imersão Dev Aula 2: Conversor de Moedas
 
 Semana 2|
 Imersão Dev Aula 3: Mentalista
-Imersão Dev Aula 4: Array, Lista e AluraFlix
+| Imersão Dev Aula 4: Array, Lista e AluraFlix
 
 Semana 3|
 Lógica de programação: comece em lógica com o jogo Pong e Javascript
-Lógica de programação: laços e listas com Javascript
+| Lógica de programação: laços e listas com Javascript
 
 Semana 4|
 HTML5 e CSS3 parte 1: crie uma página da Web
